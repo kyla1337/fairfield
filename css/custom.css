@@ -457,7 +457,7 @@ body{
 .dark-section .section-title h3,
 .dark-section .section-title h2,
 .dark-section .section-title h1{
-	color: var(--white-color);
+	color: #a6cdff;
 }
 
 .dark-section .section-title h3::before{
