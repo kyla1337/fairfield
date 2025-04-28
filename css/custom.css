@@ -47,7 +47,7 @@
 
 :root{
 	--primary-color				: #042245;
-	--secondary-color			: #F3F3F5;
+	--secondary-color			: #5974a2;
 	--text-color				: #545454;
 	--accent-color				: #896612;
 	--white-color				: #FFFFFF;
@@ -457,7 +457,7 @@ body{
 .dark-section .section-title h3,
 .dark-section .section-title h2,
 .dark-section .section-title h1{
-	color: #000000;
+	color: #afafaf;
 }
 
 .dark-section .section-title h3::before{
