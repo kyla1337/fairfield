@@ -47,7 +47,7 @@
 
 :root{
 	--primary-color				: #042245;
-	--secondary-color			: #5974a2;
+	--secondary-color			: #708199;
 	--text-color				: #545454;
 	--accent-color				: #896612;
 	--white-color				: #FFFFFF;
@@ -1289,7 +1289,7 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .our-services{
-	background: var(--secondary-color) url('../images/light-bg-section-shape.png') no-repeat;
+	background: #708199 url(../images/light-bg-section-shape.png) no-repeat;
 	background-position: center center;
 	background-size: cover;
 	padding: 100px 0;
@@ -2280,7 +2280,7 @@ header.main-header .header-sticky.active{
 }
 
 .testimonial-slider{
-	background: var(--white-color);
+	background: #5974a2;
 	border: 1px solid var(--divider-color);
 	box-shadow: 0px 0px 30px 0px #04224508;
 	border-radius: 12px;
