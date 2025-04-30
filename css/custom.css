@@ -2990,8 +2990,8 @@ header.main-header .header-sticky.active{
 	justify-content: space-between;
 	gap: 20px;
 	border-top: 1px solid var(--dark-divider-color);
-	margin-top: 60px;
-	padding: 50px 0;
+	margin-top: 10px;
+	padding: 30px 0;
 }
 
 .footer-copyright-text p{
