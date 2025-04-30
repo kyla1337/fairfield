@@ -67,7 +67,7 @@ body{
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 1em;
-	color: #000000;
+	color: #c0c0c0;
 	background: #393939;
 }
 
@@ -990,7 +990,7 @@ header.main-header .header-sticky.active{
 }
 
 .section-footer-text p a{
-	color: var(--primary-color);
+	color: #896612;
 	font-weight: 600;
 	text-transform: capitalize;
 	text-decoration: underline;
@@ -1289,7 +1289,7 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .our-services{
-	background: #708199 url(../images/dark-section-bg-shape.png) no-repeat;
+	background: #040a1a url(../images/dark-section-bg-shape.png) no-repeat;
 	background-position: center center;
 	background-size: cover;
 	padding: 100px 0;
@@ -1797,7 +1797,7 @@ header.main-header .header-sticky.active{
 
 .our-Project-nav ul li a{
 	position: relative;
-	color: var(--text-color);
+	color: #818181;
 	font-size: 16px;
 	font-weight: 500;
 	line-height: 1.2em;
