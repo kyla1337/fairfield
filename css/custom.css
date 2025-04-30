@@ -2492,7 +2492,7 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .our-faqs{
-	background: var(--secondary-color) url(../images/light-bg-section-shape.png) no-repeat;
+	background: #040a1a url(../images/dark-section-bg-shape.png) no-repeat;
     background-position: center center;
 	background-size: cover;
 	padding: 100px 0;
