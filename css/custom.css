@@ -103,7 +103,7 @@ h6{
 	margin :0;
 	font-weight: 600;
 	line-height: 1.2em;
-	color: var(--primary-color);
+	color: #8296b5;
 }
 
 figure{
@@ -414,7 +414,7 @@ body{
 	line-height: 1.4em;
 	letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: var(--primary-color);
+    color: #8296b5;
 	padding-left: 30px;
     margin-bottom: 10px;
 }
@@ -457,7 +457,7 @@ body{
 .dark-section .section-title h3,
 .dark-section .section-title h2,
 .dark-section .section-title h1{
-	color: #afafaf;
+	color: #8296b5;
 }
 
 .dark-section .section-title h3::before{
