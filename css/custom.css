@@ -49,7 +49,7 @@
 	--primary-color				: #042245;
 	--secondary-color			: #708199;
 	--text-color				: #545454;
-	--accent-color				: #896612;
+	--accent-color				: #425f79;
 	--white-color				: #FFFFFF;
 	--divider-color				: #0422451A;
 	--dark-divider-color		: #FFFFFF1A;
@@ -103,7 +103,7 @@ h6{
 	margin :0;
 	font-weight: 600;
 	line-height: 1.2em;
-	color: #8296b5;
+	color: #569578;
 }
 
 figure{
@@ -213,7 +213,7 @@ body{
 .btn-default{
 	position: relative;
     display: inline-block;
-    background: var(--accent-color);
+    background: #425f79;
 	border-radius: 6px;
     font-size: 16px;
     font-weight: 700;
@@ -414,7 +414,7 @@ body{
 	line-height: 1.4em;
 	letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: #8296b5;
+    color: #569578;
 	padding-left: 30px;
     margin-bottom: 10px;
 }
@@ -457,7 +457,7 @@ body{
 .dark-section .section-title h3,
 .dark-section .section-title h2,
 .dark-section .section-title h1{
-	color: #8296b5;
+	color: #569578;
 }
 
 .dark-section .section-title h3::before{
@@ -990,7 +990,7 @@ header.main-header .header-sticky.active{
 }
 
 .section-footer-text p a{
-	color: #896612;
+	color: #425f79;
 	font-weight: 600;
 	text-transform: capitalize;
 	text-decoration: underline;
@@ -2280,7 +2280,7 @@ header.main-header .header-sticky.active{
 }
 
 .testimonial-slider{
-	background: #5974a2;
+	background: #425f79;
 	border: 1px solid var(--divider-color);
 	box-shadow: 0px 0px 30px 0px #04224508;
 	border-radius: 12px;
